@@ -1,0 +1,10 @@
+h1, p {
+  font-family: Lato;
+}
+.myBorderPaddingMargin{
+  border:2px ;
+  padding:5px;
+  margin:5px;
+
+
+}
